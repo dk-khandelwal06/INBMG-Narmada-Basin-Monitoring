@@ -1,0 +1,73 @@
+# ============================
+# INBMG .gitignore
+# ============================
+# NOTE: Project artifacts that must remain tracked include:
+# PDF, PPTX, PNG, CSV, Markdown, and Excalidraw files used by this
+# repository (workflow diagrams, presentations, reports, data, images).
+# Nothing below targets those file types in the project's content folders.
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---- Virtual environments ----
+venv/
+env/
+ENV/
+.venv/
+
+# ---- VS Code ----
+.vscode/
+*.code-workspace
+
+# ---- OS files ----
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# ---- Editor/temp/cache files ----
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.log
+.cache/
+*.pid
+
+# ---- Environment / secrets ----
+.env
+.env.local
+*.pem
+*.key
+
+# ---- Archives (avoid accidental large uploads) ----
+*.zip
+*.tar.gz
+*.rar
+*.7z

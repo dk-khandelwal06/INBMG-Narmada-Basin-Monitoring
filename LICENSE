@@ -1,0 +1,36 @@
+# License
+
+## Why This License
+
+This repository primarily contains **research documentation, presentations, images, CSV datasets, analysis outputs, and academic project materials** — not application source code. A permissive code license such as MIT is designed for software and does not map cleanly onto data, figures, and written reports (it says little about attribution expectations for reuse of a dataset or a report).
+
+For a mixed research repository like this one, the cleanest practical approach is a **single, repository-wide content license** that is well suited to non-software academic material:
+
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+This license applies to all content in this repository — documentation (`.md` files), the technical report, presentations, slide images, workflow diagrams, and CSV datasets — unless a specific file states otherwise.
+
+> **If future work adds actual source code** (e.g., Google Earth Engine scripts, Python analysis scripts, or a dashboard application) to this repository, that code should be licensed separately under the **MIT License**, since MIT is the standard permissive choice for software and is more appropriate for code than CC BY 4.0. A `LICENSE-CODE` file can be added for that purpose when code is introduced.
+
+## CC BY 4.0 Summary
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit to Khushi Kushwah and Daksh Khandelwal (IIT Jodhpur), provide a link to this license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+## Attribution
+
+When citing or reusing content from this repository, please also see [`CITATION.cff`](./CITATION.cff) for structured citation metadata.
+
+## Disclaimer
+
+This project represents student-led academic research work. It does not constitute an operational environmental monitoring system, and the technical report's findings are specific to the study period, methodology, and geographic scope described within it (see [`08-Methodology/`](./08-Methodology/)).

@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this repository, its documentation, or its technical report, please cite it as below."
+title: "INBMG: Intelligent Narmada Basin Monitoring & Governance — 2025 Remote-Sensing River Health Analysis"
+type: software
+authors:
+  - family-names: "Kushwah"
+    given-names: "Khushi"
+    affiliation: "Indian Institute of Technology (IIT) Jodhpur, School of AI and Data Science"
+    email: "khushikushwah213@gmail.com"
+  - family-names: "Khandelwal"
+    given-names: "Daksh"
+    affiliation: "Indian Institute of Technology (IIT) Jodhpur, School of AI and Data Science"
+    email: "dk.khandelwaliitj@gmail.com"
+year: 2026
+repository-code: "https://github.com/<PLACEHOLDER-USERNAME>/INBMG-Narmada-Basin-Monitoring"
+abstract: >
+  INBMG (Intelligent Narmada Basin Monitoring & Governance) is a student-led
+  research and documentation project developed at IIT Jodhpur, with guidance
+  from Dr. Priyank J. Sharma, Department of Civil Engineering, IIT Indore.
+  This repository documents the project's evolution from an initial broad
+  conceptual vision to its currently implemented technical component: a
+  2025 remote-sensing analysis of the Omkareshwar and Maheshwar stretches
+  of the Narmada River using Sentinel-2 multispectral imagery and Google
+  Earth Engine, computing eight spectral indices (NDTI, NDWI, MNDWI, AWEI,
+  FAI, NDVI, BSI, TSM) for river-health assessment.
+keywords:
+  - remote sensing
+  - river health monitoring
+  - Narmada River
+  - Google Earth Engine
+  - Sentinel-2
+  - geospatial analysis
+  - environmental monitoring
+license: CC-BY-4.0
