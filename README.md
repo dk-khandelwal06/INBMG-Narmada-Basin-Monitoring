@@ -1,11 +1,19 @@
+<div align="center">
+
+<img src="assets/banner.png" alt="ProofDeck Logo" width="5000">
+
 # INBMG — Intelligent Narmada Basin Monitoring & Governance
 
 ### An AI-Driven Framework for Ecological Conservation and Public Safety on the Narmada River
 
-**Authors:** Khushi Kushwah · Daksh Khandelwal
-**Affiliation:** B.S. in Applied AI & Data Science, School of AI and Data Science, Indian Institute of Technology (IIT) Jodhpur
-**Academic Guidance:** Dr. Priyank J. Sharma, Assistant Professor, Department of Civil Engineering, IIT Indore
-**Project Status:** Student research project. The currently *implemented* technical component is a 2025 remote-sensing river-health analysis; the broader INBMG vision remains at the concept/proposal stage (see [Project Evolution](#project-evolution)).
+</div>
+
+---
+
+**Authors:** Khushi Kushwah · Daksh Khandelwal  
+**Affiliation:** B.S. in Applied AI & Data Science, School of AI and Data Science, Indian Institute of Technology (IIT) Jodhpur  
+**Academic Guidance:** Dr. Priyank J. Sharma, Assistant Professor, Department of Civil Engineering, IIT Indore  
+**Project Status:** Student research project. The currently *implemented* technical component is a 2025 remote-sensing river-health analysis; the broader INBMG vision remains at the concept/proposal stage (see [Project Evolution](#project-evolution)).  
 **Core Methods (implemented component):** Sentinel-2 multispectral remote sensing · Google Earth Engine · Spectral index analysis (NDTI, NDWI, MNDWI, AWEI, FAI, NDVI, BSI, TSM)
 
 > ⚠️ **Read this first:** INBMG began as a large, multi-domain AI concept (crowd safety, river navigation, biodiversity, eDNA, digital governance, etc.). **Only the 2025 remote-sensing river-health analysis has been implemented and documented with real results.** Everything else described in the original concept, abstract, and presentations is proposed/future work. This README is written to make that distinction explicit throughout.
@@ -79,7 +87,7 @@ The project began with an initial brainstorming and conceptualization phase, vis
 
 This diagram represents the **broadest possible scope** of the project at its earliest stage — it is a brainstorm, not an implementation plan. Many of the branches shown here (AI navigation, real-time crowd measurement, biodiversity assessment) remain future scope, as detailed in the [Future Roadmap](#future-roadmap).
 
-📎 Editable source: an Excalidraw source file was not included among the files supplied for this repository build — add `INBMG-Initial-Workflow.excalidraw` to [`01-Project-Concept/`](./01-Project-Concept/) if available.
+
 
 ---
 
