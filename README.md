@@ -354,6 +354,31 @@ The project received **guidance during its development** from **Dr. Priyank J. S
 
 ---
 
+## 👥 Team
+
+<div align="center">
+
+### **Daksh Khandelwal**
+
+**2nd Year · B.S. in AI & Data Science · IIT Jodhpur**
+
+📧 **Email:** dk.khandelwaliit@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/daksh-khandelwal-b02748391/  
+💻 **GitHub:** https://github.com/dk-khandelwal06
+
+<br>
+
+### **Khushi Kushwah**
+
+**2nd Year · B.S. in AI & Data Science · IIT Jodhpur**
+
+📧 **Email:** khushikushwah213@gmail.com  
+💻 **GitHub:** https://github.com/khushikushwah213
+
+</div>
+
+---
+
 ## Citation
 
 If you use or reference this repository, its documentation, or its technical report, please cite it using the metadata in [`CITATION.cff`](./CITATION.cff). Most Git hosting platforms that support the Citation File Format will auto-generate a formatted citation from this file (e.g., via a "Cite this repository" button).
